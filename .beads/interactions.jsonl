@@ -1,0 +1,2 @@
+{"id":"int-ea9f9c65","kind":"field_change","created_at":"2026-06-30T22:16:18.827301047Z","actor":"unknown","issue_id":"work-nrs","extra":{"field":"status","new_value":"closed","old_value":"open","reason":"Implemented Nuxt.js app with home route (/home), default layout, and Bootstrap CSS via CDN. All tests pass (3/3) and build succeeds."}}
+{"id":"int-fd317d01","kind":"field_change","created_at":"2026-07-01T14:18:21.374169594Z","actor":"mat","issue_id":"work-bew","extra":{"field":"status","new_value":"closed","old_value":"in_progress","reason":"Closed"}}
